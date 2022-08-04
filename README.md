@@ -1,4 +1,4 @@
-A first stab at making a theme for Beamer in McMaster University colours. At this stage, it's pretty basic -- I took the AnnArbor theme and altered it. To use, simply dump the two .sty files in your LaTeX working directory and use the "\usetheme{McMaster}"
+A first stab at making a theme for Beamer in McMaster University colours. At this stage, it's pretty basic -- I took the AnnArbor theme and altered it. To use, simply dump the two .sty files in your LaTeX working directory and use the option ```\usetheme{McMaster}``` in your preamble.
 
 TODO
 
