@@ -4,3 +4,4 @@ TODO
 
 * Maybe fix that gradient thing at the bottom
 * Logos? 
+* What's That Blue Text Doing Here?
